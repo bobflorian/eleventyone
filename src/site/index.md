@@ -5,9 +5,9 @@ layout: layouts/base.njk
 
 ##
 
-## Join us for an outdoor adventure, end of Summer Party
+## Join us for an outdoor adventure, End of Summer Party
 
-#### Sunday August 8th, 1:00pm - 4:30pm at The Forge, Lemont Quarries
+#### Sunday August 8th, 1:00pm - 4:30pm at [The Forge, Lemont Quarries](https://www.forgeparks.com/)
 
 Push your personal limits and reach your challenge summit. Take on the ropes course with 2-miles of zip lines between towers, rappelling stations, and climbing elements.
 
@@ -35,6 +35,8 @@ Full List of Participant Requirements: [https://www.forgeparks.com/participant-r
 *   Height: 52in to 6ft 6in
 *   Closed toe shoes
 *   We’ll have a participating adult chaperone on the course with each group of 4 kids
+
+###
 
 ---
 
