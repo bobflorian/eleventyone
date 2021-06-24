@@ -1,3 +1,9 @@
+---
+title: Aiden Florian
+layout: layouts/base.njk
+---
+
+
 
 Join us for an outdoor adventure, end of Summer Party
 
