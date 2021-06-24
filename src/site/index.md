@@ -11,7 +11,7 @@ layout: layouts/base.njk
 
 Push your personal limits and reach your challenge summit. Take on the ropes course with 2-miles of zip lines between towers, rappelling stations, and climbing elements.
 
-RSVP by filling out the waiver online ahead of time (required to be done ahead of time): [https://go.theflybook.com/manage/TZ2YCN#/lite](https://go.theflybook.com/manage/TZ2YCN#/lite)
+RSVP by filling out the waiver online ahead of time (required to be done ahead of time): [https://go.theflybook.com/manage/TZ2YCN#/smart](https://go.theflybook.com/manage/TZ2YCN#/smart)
 
 ---
 
