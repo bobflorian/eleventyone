@@ -28,7 +28,7 @@ We’ll be doing the 8 Towers Ropes course and Zip Lines.  The Towers are very t
 
 ##
 
-We’ll have pizza, water, and gatorade for the kids as a late afternoon snack after the ropes course.
+We’ll have pizza, water, and Gatorade for the kids as a late afternoon snack after the ropes course.
 
 **The adventure starts at 1:30pm, but you must arrive 30 minutes early.**
 
